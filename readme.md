@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/tea-cup"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/tea-cup/">View Demo</a>
+    <a href="https://tea-cup-peach.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/tea-cup/issues">Report Bug</a>
     ·
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![tea-cup](./img/p.gif)](https://ibrsec.github.io/tea-cup/)
+[![tea-cup](./img/p.gif)](https://tea-cup-peach.vercel.app/)
 
 
 
